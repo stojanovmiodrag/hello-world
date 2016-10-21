@@ -1,2 +1,4 @@
 # hello-world
-prv obid :)
+
+da vidimee kako funkcionira
+cisto kolku za proba :)
